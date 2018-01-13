@@ -1,0 +1,8 @@
+E:\WindowsFormsApplication2\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\WindowsFormsApplication2\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication5\obj\Debug\10.8.8.csproj.GenerateResource.Cache
